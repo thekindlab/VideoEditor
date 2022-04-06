@@ -1,0 +1,13 @@
+# py caches
+__pycache__
+.mypy_cache
+
+# virtual environments
+venv/
+env/
+.vscode/settings.json
+
+# file uploads
+*.mp4
+*.mov
+*.mvk
