@@ -14,6 +14,8 @@ CSCI 497T with Professor Elglaly
 - Nick Harang
 - Kale Kurtzhall
 
+## Project Presentation 
+Watch the presentation [video](https://www.youtube.com/watch?v=XVa3PljSfYQ)
 
 ## Installation Info
 ### Dependencies
